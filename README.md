@@ -1,6 +1,6 @@
 # loan-default-analysis-sql-powerbi
 
-#  Loan Default Risk Analysis Dashboard
+#  Loan Default Analysis Dashboard
 
 This project is a comprehensive Loan Default Analysis created using **SQL Server**, **Power BI Dataflows**, and **Power BI Desktop**. The goal is to analyze key trends in loan defaults based on various borrower demographics and financial attributes.
 
